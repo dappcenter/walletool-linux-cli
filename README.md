@@ -4,7 +4,7 @@ pywallet-cli-linux ~ a tool for reading wallet.dat files
 Installation
 ---------------
 
-* git clone https://github.com/pywallet-cli/pywallet-cli-linux
+* git clone https://github.com/pywallet-cli/walletool-cli-linux.git
 
 Extracting private keys from Bitcoin-QT/Litecoin-QT wallets
 -----------------------------------------------------------
